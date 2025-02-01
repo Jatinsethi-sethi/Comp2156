@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "22": "^0.0.0"
+  },
+  "name": "comp2156",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jatinsethi-sethi/Comp2156.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jatinsethi-sethi/Comp2156/issues"
+  },
+  "homepage": "https://github.com/Jatinsethi-sethi/Comp2156#readme"
+}
